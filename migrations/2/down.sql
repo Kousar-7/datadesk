@@ -1,0 +1,1 @@
+ALTER TABLE researchers DROP COLUMN email;

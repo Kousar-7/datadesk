@@ -1,0 +1,1 @@
+ALTER TABLE researchers ADD COLUMN email TEXT;
